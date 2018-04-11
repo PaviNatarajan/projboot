@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import bootproject.service.taskservice;;
 
-@RestController
-//@Controller
+
+@Controller
 public class taskcontroller {
 	/*@Autowired
 	private taskservice taskservice;*/
